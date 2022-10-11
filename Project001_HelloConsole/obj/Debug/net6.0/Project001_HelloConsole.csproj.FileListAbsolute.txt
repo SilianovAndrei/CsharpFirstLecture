@@ -1,0 +1,15 @@
+D:\Рабочий стол\GeekBrains\Лекции\3.Знакомсвто с языками программирования\1.С#\Project001_HelloConsole\bin\Debug\net6.0\Project001_HelloConsole.exe
+D:\Рабочий стол\GeekBrains\Лекции\3.Знакомсвто с языками программирования\1.С#\Project001_HelloConsole\bin\Debug\net6.0\Project001_HelloConsole.deps.json
+D:\Рабочий стол\GeekBrains\Лекции\3.Знакомсвто с языками программирования\1.С#\Project001_HelloConsole\bin\Debug\net6.0\Project001_HelloConsole.runtimeconfig.json
+D:\Рабочий стол\GeekBrains\Лекции\3.Знакомсвто с языками программирования\1.С#\Project001_HelloConsole\bin\Debug\net6.0\Project001_HelloConsole.dll
+D:\Рабочий стол\GeekBrains\Лекции\3.Знакомсвто с языками программирования\1.С#\Project001_HelloConsole\bin\Debug\net6.0\Project001_HelloConsole.pdb
+D:\Рабочий стол\GeekBrains\Лекции\3.Знакомсвто с языками программирования\1.С#\Project001_HelloConsole\obj\Debug\net6.0\Project001_HelloConsole.csproj.AssemblyReference.cache
+D:\Рабочий стол\GeekBrains\Лекции\3.Знакомсвто с языками программирования\1.С#\Project001_HelloConsole\obj\Debug\net6.0\Project001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Рабочий стол\GeekBrains\Лекции\3.Знакомсвто с языками программирования\1.С#\Project001_HelloConsole\obj\Debug\net6.0\Project001_HelloConsole.AssemblyInfoInputs.cache
+D:\Рабочий стол\GeekBrains\Лекции\3.Знакомсвто с языками программирования\1.С#\Project001_HelloConsole\obj\Debug\net6.0\Project001_HelloConsole.AssemblyInfo.cs
+D:\Рабочий стол\GeekBrains\Лекции\3.Знакомсвто с языками программирования\1.С#\Project001_HelloConsole\obj\Debug\net6.0\Project001_HelloConsole.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\GeekBrains\Лекции\3.Знакомсвто с языками программирования\1.С#\Project001_HelloConsole\obj\Debug\net6.0\Project001_HelloConsole.dll
+D:\Рабочий стол\GeekBrains\Лекции\3.Знакомсвто с языками программирования\1.С#\Project001_HelloConsole\obj\Debug\net6.0\refint\Project001_HelloConsole.dll
+D:\Рабочий стол\GeekBrains\Лекции\3.Знакомсвто с языками программирования\1.С#\Project001_HelloConsole\obj\Debug\net6.0\Project001_HelloConsole.pdb
+D:\Рабочий стол\GeekBrains\Лекции\3.Знакомсвто с языками программирования\1.С#\Project001_HelloConsole\obj\Debug\net6.0\Project001_HelloConsole.genruntimeconfig.cache
+D:\Рабочий стол\GeekBrains\Лекции\3.Знакомсвто с языками программирования\1.С#\Project001_HelloConsole\obj\Debug\net6.0\ref\Project001_HelloConsole.dll
